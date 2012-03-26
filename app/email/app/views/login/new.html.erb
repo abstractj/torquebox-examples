@@ -1,0 +1,13 @@
+<h1>Teste de autenticação</h1>
+
+<%= form_tag login_path do %>
+  <p>
+  <%= label_tag :usuario %><br />
+  <%= text_field_tag :usuario, params[:usuario] %>
+  </p>
+  <p>
+  <%= label_tag :senha %><br />
+  <%= password_field_tag :senha, params[:senha] %>
+  </p>
+  <p class="button"><%= submit_tag "Entrar" %></p>
+<% end %>

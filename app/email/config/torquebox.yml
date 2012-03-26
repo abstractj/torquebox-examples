@@ -1,0 +1,35 @@
+jobs:
+  dispara_email:
+    job:  EmailJob
+    cron: '0 */5 * * * ?'
+    singleton: true
+    config: 
+      enviar: true
+
+services:
+  StatusEmailService:
+    config:
+      descricao: Monitoramento do serviço de e-mail
+    singleton: true 
+  SimpleMessagingService:
+    config:
+      descricao: Envio de mensagens para o HornetQ
+    singleton: true 
+  EscreveLogService:
+    config:
+      descricao: Escrita de logs para processors
+    singleton: true 
+
+queues:
+  /queues/email:
+  /queues/log: 
+
+messaging:
+  /queues/log:
+    LogAcessoProcessor:
+
+auth:
+  default:
+    domain: torquebox
+    credentials:
+      homer: simpson
