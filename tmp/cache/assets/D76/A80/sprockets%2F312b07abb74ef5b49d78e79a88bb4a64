@@ -1,4 +1,4 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336453231.947:@expires_in0:@value"Ÿ{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454567.485:@expires_in0:@value"Ÿ{"
 class"ProcessedAsset"logical_path"js/app.js"pathname"+$root/app/assets/javascripts/js/app.js"content_type"application/javascript"
 mtime"2012-05-07T19:26:01-03:00"lengthi„"digest"%3c4754cbe099c73681138f13b4a665cc"source"„/*
  * JBoss, Home of Professional Open Source

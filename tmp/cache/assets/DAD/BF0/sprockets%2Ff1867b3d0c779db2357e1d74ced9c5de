@@ -1,4 +1,4 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336453231.815:@expires_in0:@value"Во{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454567.394:@expires_in0:@value"Во{"
 class"ProcessedAsset"logical_path"jquery.js"pathname"l/Users/abstractj/.rvm/gems/jruby-1.6.7@pops/gems/jquery-rails-2.0.2/vendor/assets/javascripts/jquery.js"content_type"application/javascript"
 mtime"2012-05-08T01:57:58-03:00"lengthiвл"digest"%866e3738f307a11a66cbe77084eb4588"source"вл/*!
  * jQuery JavaScript Library v1.7.2

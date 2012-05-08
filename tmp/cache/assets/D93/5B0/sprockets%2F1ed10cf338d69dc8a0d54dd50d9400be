@@ -1,3 +1,3 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336453231.377:@expires_in0:@value"3{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454566.958:@expires_in0:@value"3{"
 class"StaticAsset"logical_path"*img/dualbrand_catapillarbutterfly.png"pathname"B$root/app/assets/images/img/dualbrand_catapillarbutterfly.png"content_type"image/png"
 mtime"2012-05-07T19:26:01-03:00"lengthi­4"digest"%f339e4f9623dd80229257d193c9658b5"_version"%7270767b2a9e9fff880aa5de378ca791

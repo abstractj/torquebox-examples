@@ -1,3 +1,3 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336453231.235:@expires_in0:@value"	{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454566.815:@expires_in0:@value"	{"
 class"StaticAsset"logical_path"img/asidebkg.png"pathname"-$root/app/assets/images/img/asidebkg.png"content_type"image/png"
 mtime"2012-05-07T19:26:01-03:00"lengthi^"digest"%b9e5dca31f301d0fbe547af546831f3f"_version"%7270767b2a9e9fff880aa5de378ca791

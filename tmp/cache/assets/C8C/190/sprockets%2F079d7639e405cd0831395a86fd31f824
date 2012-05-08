@@ -1,3 +1,3 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336453231.527:@expires_in0:@value"{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454567.104:@expires_in0:@value"{"
 class"StaticAsset"logical_path"img/icon_medium.png"pathname"0$root/app/assets/images/img/icon_medium.png"content_type"image/png"
 mtime"2012-05-07T19:26:01-03:00"lengthi"digest"%d52ff4e6b3a17dee0ceeb8c1aced14f8"_version"%7270767b2a9e9fff880aa5de378ca791
