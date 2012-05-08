@@ -15,10 +15,12 @@ KitchensinkTorqueboxMobile::Application.configure do
   config.assets.compress = true
 
   # Don't fallback to assets pipeline if a precompiled asset is missed
-  config.assets.compile = false
+  config.assets.compile = true
 
   # Generate digests for assets URLs
   config.assets.digest = true
+
+  config.assets.paths << "#{Rails.root}/app/assets/stylesheets/css"
 
   # Defaults to Rails.root.join("public/assets")
   # config.assets.manifest = YOUR_PATH
