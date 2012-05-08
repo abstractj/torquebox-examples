@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336453232.463:@expires_in0:@value"P{"
+class"ProcessedAsset"logical_path"members.js"pathname"3$root/app/assets/javascripts/members.js.coffee"content_type"application/javascript"
+mtime"2012-05-07T19:26:01-03:00"lengthi%"digest"%f244abd5178f4fc3be6b074e3502259c"source"%(function() {
+
+
+
+}).call(this);
+"dependency_digest"%05cdd66e62c5c82218c5f43fdc7ef792"required_paths["3$root/app/assets/javascripts/members.js.coffee"dependency_paths[{"	path"3$root/app/assets/javascripts/members.js.coffee"
+mtime"2012-05-07T19:26:01-03:00"digest"%9814e960713078e5d677337e3cfd2412"_version"%7270767b2a9e9fff880aa5de378ca791

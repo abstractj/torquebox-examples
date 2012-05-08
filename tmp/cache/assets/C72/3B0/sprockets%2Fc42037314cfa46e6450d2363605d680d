@@ -1,0 +1,3 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336453231.195:@expires_in0:@value"{"
+class"StaticAsset"logical_path" img/aerogear_logo_150px.png"pathname"8$root/app/assets/images/img/aerogear_logo_150px.png"content_type"image/png"
+mtime"2012-05-07T19:26:01-03:00"lengthi“"digest"%1f126594a7d10a8a1712d119f9f23715"_version"%7270767b2a9e9fff880aa5de378ca791
