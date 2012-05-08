@@ -1,4 +1,4 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454567.914:@expires_in0:@value"P{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336460012.945:@expires_in0:@value"P{"
 class"ProcessedAsset"logical_path"members.js"pathname"3$root/app/assets/javascripts/members.js.coffee"content_type"application/javascript"
 mtime"2012-05-07T19:26:01-03:00"lengthi%"digest"%f244abd5178f4fc3be6b074e3502259c"source"%(function() {
 

@@ -1,4 +1,4 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454567.452:@expires_in0:@value"{?{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336460012.39:@expires_in0:@value"{?{"
 class"ProcessedAsset"logical_path"jquery_ujs.js"pathname"p/Users/abstractj/.rvm/gems/jruby-1.6.7@pops/gems/jquery-rails-2.0.2/vendor/assets/javascripts/jquery_ujs.js"content_type"application/javascript"
 mtime"2012-05-08T01:57:58-03:00"lengthiç<"digest"%f8fdd19d40953b0408e7e08a9352dd76"source"ç<(function($, undefined) {
 

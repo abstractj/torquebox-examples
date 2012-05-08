@@ -1,4 +1,4 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454567.569:@expires_in0:@value"B"{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336460012.567:@expires_in0:@value"B"{"
 class"ProcessedAsset"logical_path"#js/libs/modernizr-2.5.3.min.js"pathname"@$root/app/assets/javascripts/js/libs/modernizr-2.5.3.min.js"content_type"application/javascript"
 mtime"2012-05-07T19:26:01-03:00"lengthiÓ"digest"%72f5fc675f51501309c3036e04fe6817"source"Ó/* Modernizr 2.5.3 (Custom Build) | MIT & BSD
  * Build: http://www.modernizr.com/download/#-touch-shiv-mq-cssclasses-teststyles-prefixes-load

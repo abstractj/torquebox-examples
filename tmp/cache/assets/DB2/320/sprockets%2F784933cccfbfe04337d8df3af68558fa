@@ -1,4 +1,4 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336454567.608:@expires_in0:@value"N1{"
+o: ActiveSupport::Cache::Entry	:@compressedF:@created_atf1336460012.597:@expires_in0:@value"N1{"
 class"ProcessedAsset"logical_path"js/libs/underscore-min.js"pathname";$root/app/assets/javascripts/js/libs/underscore-min.js"content_type"application/javascript"
 mtime"2012-05-07T19:26:01-03:00"lengthió."digest"%43d4ac8e261872f1776e40b0dd979d94"source"ó.// Underscore.js 1.2.3
 // (c) 2009-2011 Jeremy Ashkenas, DocumentCloud Inc.
